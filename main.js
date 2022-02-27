@@ -32,7 +32,7 @@ function gotPoses(results){
 
 function draw(){
  image(video, 0, 0, 300, 300);
- image(lipstick_filter, lipsX, lipsY, 100, 30 );
+ image(lipstick_filter, lipsX, lipsY, 30, 30 );
 
 }
 
